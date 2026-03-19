@@ -1,3 +1,7 @@
+![Selo Lux by Or](https://img.shields.io/badge/Lux_By_Or-Compliance_9.8-gold?style=for-the-badge&logo=data-canister)
+
+![Compliance](https://img.shields.io/badge/Compliance-9.8%20%2F%2010-gold?style=for-the-badge&logo=checkmarx&logoColor=white)
+
 # 💎 Auditoria de Integridade e Automação ATS (Lux by Or)
 
 Desenvolvimento de framework **BDD (Gherkin/Python)** para auditoria de fluxos em plataformas de recrutamento.
